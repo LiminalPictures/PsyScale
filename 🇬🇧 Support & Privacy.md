@@ -11,4 +11,4 @@ If you encounter a technical issue or have a suggestion to improve the tool:
 - **Contact us via this form:** https://tally.so/r/BzDrqR
 
 ## 3. Medical References
-Calculation algorithms are based on standard clinical scales used in psychiatry. For more details, please refer to the "Information" section within the application.
+Calculation algorithms are based on standard clinical scales used in psychiatry. For more details, please refer to the "📖 Citation.md" section.
