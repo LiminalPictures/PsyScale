@@ -7,7 +7,7 @@ L'application **PsyScale** est conçue pour respecter strictement le secret méd
 - **Anonymat total :** Aucun compte utilisateur n'est requis et l'application n'a pas accés vos contacts ou \'e0 votre localisation.
 
 ## 2. Assistance et Contact (Support)
-Si vous rencontrez un problème technique ou si vous avez une suggestion pour améliorer l'outil :\
+Si vous rencontrez un problème technique ou si vous avez une suggestion pour améliorer l'outil :
 - **Contactez-nous via ce formulaire :** [Lien vers votre Google Forms]
 
 ## 3. Références Médicales
