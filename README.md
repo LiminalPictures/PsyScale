@@ -9,4 +9,5 @@
 
 
 
-© 2026 Liminal Pictures
+
+<p align="right"><sub>© 2026 Votre SASU</sub></p>
