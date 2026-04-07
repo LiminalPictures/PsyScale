@@ -11,4 +11,4 @@ Si vous rencontrez un problème technique ou si vous avez une suggestion pour am
 - **Contactez-nous via ce formulaire :** https://tally.so/r/BzDrqR
 
 ## 3. Références Médicales
-Les algorithmes de calcul sont basés sur les échelles cliniques de référence en psychiatrie. Pour plus de détails, consultez la section 📖 Citations.md.
+Les algorithmes de calcul sont basés sur les échelles cliniques de référence en psychiatrie. Pour plus de détails, consultez la section [📖 Citations.md](https://github.com/LiminalPictures/PsyScale/blob/d184e2e399809a6f3e053cf28724fef6f4fa1e0c/%F0%9F%93%96%20Citations.md).
