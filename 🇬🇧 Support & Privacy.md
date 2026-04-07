@@ -8,7 +8,7 @@ The **PsyScale** app is designed to strictly respect medical confidentiality and
 
 ## 2. Assistance and Contact (Support)
 If you encounter a technical issue or have a suggestion to improve the tool:
-- **Contact us via this form:** [[Lien vers votre Google Forms](https://tally.so/r/BzDrqR)]
+- **Contact us via this form:** [(https://tally.so/r/BzDrqR)]
 
 ## 3. Medical References
 Calculation algorithms are based on standard clinical scales used in psychiatry. For more details, please refer to the "Information" section within the application.
