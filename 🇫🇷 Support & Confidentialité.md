@@ -1,4 +1,4 @@
-Cette page regroupe les informations l\'e9gales et d'assistance pour l'application PsyScale.
+Cette page regroupe les informations légales et d'assistance pour l'application PsyScale.
 
 ## 1. Politique de Confidentialité
 L'application **PsyScale** est conçue pour respecter strictement le secret médical et la vie privée des patients et des praticiens.
