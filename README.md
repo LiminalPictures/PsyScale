@@ -1,5 +1,6 @@
 <p align="left"><img src="logo.png" width="150"></p>
-# PsyScale
+
+**PsyScale**
 
 🇬🇧This application is a scoring assistance tool designed for healthcare professionals. It simplifies the rating process for validated clinical scales used in psychiatry.
 
