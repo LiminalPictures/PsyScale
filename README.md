@@ -22,10 +22,10 @@
 ## Soutenir le projet / Support the project
 
 🇬🇧 PsyScale is a free, non-profit project. If you find this tool useful, you can make a voluntary contribution to support its maintenance and App Store fees ($99/year).
-**[Contribution Link](TON_LIEN_TALLY_OU_STRIPE_ICI)**
+**[Contribution Link](buymeacoffee.com/LouiseGib)**
 
 🇫🇷 PsyScale est un projet bénévole et gratuit. Si vous trouvez cet outil utile, vous pouvez verser une contribution libre pour soutenir sa maintenance et les frais de l'App Store (99€/an).
-**[Lien de Contribution](TON_LIEN_TALLY_OU_STRIPE_ICI)**
+**[Lien de Contribution](buymeacoffee.com/LouiseGib)**
 
 
 ---
