@@ -1,6 +1,6 @@
 <small>
   
-**MADRS** — Montgomery & Åsberg (1979)
+**MADRS** — Montgomery and Åsberg (1979)
 
 https://pubmed.ncbi.nlm.nih.gov/444788/
 
@@ -15,7 +15,7 @@ DOI : 10.1136/jnnp.23.1.56
 
 ---
 
-**PHQ-9** — Kroenke, Spitzer & Williams (2001)
+**PHQ-9** — Kroenke et al. (2001)
 
 https://pubmed.ncbi.nlm.nih.gov/11556941/
 
@@ -23,7 +23,7 @@ DOI : 10.1046/j.1525-1497.2001.016009606.x
 
 ---
 
-**BDI-II** — Beck, Steer & Brown (1996)
+**BDI-II** — Beck et al. (1996)
 
 Manual for the Beck Depression Inventory‑II. San Antonio, TX: Psychological Corporation.
 
@@ -33,7 +33,7 @@ DOI : None (Manual)
 
 ---
 
-**YMRS** — Young, Biggs, Ziegler & Meyer (1978)
+**YMRS** — Young et al. (1978)
 
 https://pubmed.ncbi.nlm.nih.gov/728692/
 
@@ -41,7 +41,7 @@ DOI : 10.1192/bjp.133.5.429
 
 ---
 
-**BRMRS** — Bech & Rafaelsen (1978)
+**BRMRS** — Bech and Rafaelsen (1978)
 
 https://pubmed.ncbi.nlm.nih.gov/570572/
 
@@ -49,7 +49,7 @@ DOI : 10.1177/070674377802300605
 
 ---
 
-**HCL-32** — Angst, Adolfsson, Benazzi, Gamma, Hantouche, Meyer, Skeppar, Vieta & Scott (2005)
+**HCL-32** — Angst et al. (2005)
 
 https://pubmed.ncbi.nlm.nih.gov/15935216/
 
@@ -57,7 +57,7 @@ DOI : 10.1016/j.jad.2005.01.031
 
 ---
 
-**MDQ** — Hirschfeld, Williams, Spitzer, Calabrese, Flynn, Keck, Lewis, McElroy, Post, Rapport, Russell, Sachs & Zajecka (2000)
+**MDQ** — Hirschfeld et al. (2000)
 
 https://pubmed.ncbi.nlm.nih.gov/11058490/
 
@@ -73,7 +73,7 @@ DOI : 10.1111/j.2044-8341.1959.tb00467.x
 
 ---
 
-**GAD-7** — Spitzer, Kroenke, Williams & Löwe (2006)
+**GAD-7** — Spitzer et al. (2006)
 
 https://pubmed.ncbi.nlm.nih.gov/16717171/
 
@@ -81,7 +81,7 @@ DOI : 10.1001/archinte.166.10.1092
 
 ---
 
-**Y-BOCS** — Goodman, Price, Rasmussen, Mazure, Fleischmann, Hill, Heninger & Charney (1989)
+**Y-BOCS** — Goodman et al. (1989)
 
 https://pubmed.ncbi.nlm.nih.gov/2684084/
 
@@ -89,7 +89,7 @@ DOI : 10.1001/archpsyc.1989.01810110032005
 
 ---
 
-**OCI-R** — Foa, Huppert, Leiberg, Langner, Kichic, Hajcak & Salkovskis (2002)
+**OCI-R** — Foa et al. (2002)
 
 https://pubmed.ncbi.nlm.nih.gov/12214438/
 
@@ -97,7 +97,7 @@ DOI : 10.1037/1040-3590.14.3.312
 
 ---
 
-**PANSS** — Kay, Fiszbein & Opler (1987)
+**PANSS** — Kay et al. (1987)
 
 https://pubmed.ncbi.nlm.nih.gov/3616518/
 
@@ -105,7 +105,7 @@ DOI : 10.1093/schbul/13.2.261
 
 ---
 
-**CGI-SCH** — Haro, Kamath, Ochoa, Novick, Rele, Fargas, Rodríguez, Orta, Kharbeng, Araya, Gervin, Alonso, Mavreas, Lavrentzou, Liontos, Gregor & Jones (2003)
+**CGI-SCH** — Haro et al. (2003)
 
 https://pubmed.ncbi.nlm.nih.gov/12755850/
 
@@ -113,17 +113,17 @@ DOI : 10.1046/j.1399-5618.2003.00012.x
 
 ---
 
-**BPRS-18** — Overall & Gorham (1962)
+**BPRS-18** — Overall and Gorham (1962)
 
 The Brief Psychiatric Rating Scale. Psychological Reports, 10, 799–812.
 
 PMID : Not available  
 
-DOI: not available in the original publication (may exist in reindexed databases)
+DOI : Not available in the original publication (may exist in reindexed databases)
 
 ---
 
-**C-SSRS** — Posner, Brown, Stanley, Brent, Yershova, Oquendo, Currier, Melvin, Greenhill, Shen & Mann (2011)
+**C-SSRS** — Posner et al. (2011)
 
 https://pubmed.ncbi.nlm.nih.gov/22193671/
 
@@ -131,7 +131,7 @@ DOI : 10.1176/appi.ajp.2011.10111704
 
 ---
 
-**EDE-Q** — Fairburn & Beglin (1994)
+**EDE-Q** — Fairburn and Beglin (1994)
 
 https://pubmed.ncbi.nlm.nih.gov/7866415/
 
@@ -139,7 +139,7 @@ DOI : 10.1002/1098-108X(199411)16:4<363::AID-EAT2260160405>3.0.CO;2-#
 
 ---
 
-**BES** — Gormally, Black, Daston & Rardin (1982)
+**BES** — Gormally et al. (1982)
 
 https://pubmed.ncbi.nlm.nih.gov/7183157/
 
@@ -147,7 +147,7 @@ DOI : 10.1016/0005-7967(82)90024-7
 
 ---
 
-**SCOFF** — Morgan, Reid & Lacey (1999)
+**SCOFF** — Morgan et al. (1999)
 
 https://pubmed.ncbi.nlm.nih.gov/10582927/
 
@@ -155,7 +155,7 @@ DOI : 10.1136/bmj.319.7223.1467
 
 ---
 
-**PCL-5** — Weathers, Litz, Keane, Palmieri, Marx & Schnurr (2013)
+**PCL-5** — Weathers et al. (2013)
 
 The PTSD Checklist for DSM‑5 (PCL‑5). National Center for PTSD.
 
@@ -165,7 +165,7 @@ DOI : None (Manual)
 
 ---
 
-**ASRS v1.1** — Kessler, Adler, Ames, Demler, Faraone, Hiripi, Howes, Jin, Secnik, Spencer, Ustun & Walters (2005)
+**ASRS v1.1** — Kessler et al. (2005)
 
 https://pubmed.ncbi.nlm.nih.gov/15841682/
 
@@ -173,7 +173,7 @@ DOI : 10.1017/S0033291704002892
 
 ---
 
-**AQ-10** — Allison, Auyeung & Baron-Cohen (2012)
+**AQ-10** — Allison et al. (2012)
 
 https://pubmed.ncbi.nlm.nih.gov/22569550/
 
@@ -181,7 +181,7 @@ DOI : 10.1007/s10803-012-1499-5
 
 ---
 
-**AUDIT** — Saunders, Aasland, Babor, de la Fuente & Grant (1993)
+**AUDIT** — Saunders et al. (1993)
 
 https://pubmed.ncbi.nlm.nih.gov/8329970/
 
