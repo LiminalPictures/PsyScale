@@ -25,9 +25,11 @@ DOI : 10.1046/j.1525-1497.2001.016009606.x
 
 **BDI-II** — Beck, Steer & Brown (1996)
 
-https://pubmed.ncbi.nlm.nih.gov/8660837/
+Manual for the Beck Depression Inventory‑II. San Antonio, TX: Psychological Corporation.
 
-DOI : 10.1037/t00742-000
+PMID : Not indexed (Manual)
+
+DOI : None (Manual)
 
 ---
 
@@ -113,9 +115,11 @@ DOI : 10.1046/j.1399-5618.2003.00012.x
 
 **BPRS-18** — Overall & Gorham (1962)
 
-Not indexed on PubMed (Psychol Rep 1962;10:799–812)
+The Brief Psychiatric Rating Scale. Psychological Reports, 10, 799–812.
 
-DOI : 10.1037/h0048816
+PMID : Not indexed  
+
+DOI : None (original article has no DOI)
 
 ---
 
@@ -153,9 +157,11 @@ DOI : 10.1136/bmj.319.7223.1467
 
 **PCL-5** — Weathers, Litz, Keane, Palmieri, Marx & Schnurr (2013)
 
-https://pubmed.ncbi.nlm.nih.gov/29038202/
+The PTSD Checklist for DSM‑5 (PCL‑5). National Center for PTSD.
 
-DOI : 10.1080/20008198.2017.1379133
+PMID : Not indexed (Manual)
+
+DOI : None (Manual)
 
 ---
 
