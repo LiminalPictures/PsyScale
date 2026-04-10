@@ -7,7 +7,7 @@ https://pubmed.ncbi.nlm.nih.gov/444788/
 DOI : 10.1192/bjp.134.4.382
   
 ---
-**HDRS-17** — Hamilton (1960)
+**HDRS** — Hamilton (1960)
 
 https://pubmed.ncbi.nlm.nih.gov/14399272/
 
@@ -27,7 +27,7 @@ DOI : 10.1046/j.1525-1497.2001.016009606.x
 
 Manual for the Beck Depression Inventory‑II. San Antonio, TX: Psychological Corporation.
 
-PMID : Not indexed (Manual)
+PMID : Not available (Manual)
 
 DOI : None (Manual)
 
@@ -105,7 +105,7 @@ DOI : 10.1093/schbul/13.2.261
 
 ---
 
-**CGI-SCH** — Haro, Kamath, Ochoa, Novick, Rele, Fargas, Rodríguez, Rele, Orta, Kharbeng, Araya, Gervin, Alonso, Mavreas, Lavrentzou, Liontos, Gregor & Jones (2003)
+**CGI-SCH** — Haro, Kamath, Ochoa, Novick, Rele, Fargas, Rodríguez, Orta, Kharbeng, Araya, Gervin, Alonso, Mavreas, Lavrentzou, Liontos, Gregor & Jones (2003)
 
 https://pubmed.ncbi.nlm.nih.gov/12755850/
 
@@ -117,9 +117,9 @@ DOI : 10.1046/j.1399-5618.2003.00012.x
 
 The Brief Psychiatric Rating Scale. Psychological Reports, 10, 799–812.
 
-PMID : Not indexed  
+PMID : Not available  
 
-DOI : None (original article has no DOI)
+DOI: not available in the original publication (may exist in reindexed databases)
 
 ---
 
@@ -159,7 +159,7 @@ DOI : 10.1136/bmj.319.7223.1467
 
 The PTSD Checklist for DSM‑5 (PCL‑5). National Center for PTSD.
 
-PMID : Not indexed (Manual)
+PMID : Not available (Manual)
 
 DOI : None (Manual)
 
