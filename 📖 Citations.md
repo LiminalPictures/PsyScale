@@ -97,14 +97,6 @@ DOI : 10.1037/1040-3590.14.3.312
 
 ---
 
-**PANSS** — Kay et al. (1987)
-
-https://pubmed.ncbi.nlm.nih.gov/3616518/
-
-DOI : 10.1093/schbul/13.2.261
-
----
-
 **CGI-SCH** — Haro et al. (2003)
 
 https://pubmed.ncbi.nlm.nih.gov/12755850/
